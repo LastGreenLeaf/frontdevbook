@@ -4,5 +4,4 @@
 
 * [Занятие \#2](/chapters/chapter2.md)
 
-
-
+* [Занятие \#3](/chapters/chapter3.md)
