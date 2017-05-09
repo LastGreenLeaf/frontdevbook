@@ -1,4 +1,5 @@
 *.pdf
 *.html
+/psd/
 html/
 homeworks/
